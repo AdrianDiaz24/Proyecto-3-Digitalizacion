@@ -1,50 +1,77 @@
-## Ciclo de vida del dato (5b):
-- ¿Cómo se gestionan los datos desde su generación hasta su eliminación en tu proyecto?
-  - Los datos se almacenan en memoria en una lista de contraseñas que despues se pueden listar para ser comprobadas, una vez se deja de ejecutar el programa se eliminan los datos de la memoria
+# Respuestas a los Criterios
 
+## Objetivos estratégicos:
 
-- ¿Qué estrategia sigues para garantizar la consistencia e integridad de los datos?
-  - La integridad se asegura controlando la entrada del usuario con la función 'pedirNum', validando que siempre se introduzca un número dentro de un rango permitido. 
+### ¿Qué objetivos estratégicos específicos de la empresa aborda tu software?
+Este software aborda el objetivo de **seguridad informática**, como un candado gigante en la puerta de una fortaleza digital. Asi el departamento de Ciberseguridad aumenta la protecion de los valiosos datos que tenga la compañia y lo hacen de forma automatica y rapida
 
+### ¿Cómo se alinea el software con la estrategia general de digitalización?
+El software se alinea con la digitalización ya que la gestión manual de contraseñas queda atrás, como un caballo frente a un coche eléctrico, ya que se digitalizay automatiza todo el proceso.
 
-- Si no trabajas con datos, ¿cómo podrías incluir una funcionalidad que los gestione de forma eficiente?
-  - Aunque si se trabaja con datos estos se almacena en memoria y se eliminan una vez finalizada la ejecucion pero seria interesante guardas estos datos en un JSON o una base de datos o en la nube
+---
 
-## Almacenamiento en la nube (5f):
+## Áreas de negocio y comunicaciones:
 
-- Si no usas la nube, ¿cómo podrías integrarla en futuras versiones?
-  - Actualmente, las contraseñas se almacenan en una lista en memoria. Para mayor seguridad y disponibilidad, se podría implementar un guardado en la nube
+### ¿Qué áreas de la empresa (producción, negocio, comunicaciones) se ven más beneficiadas con tu software?
+Las áreas que se benefician más son las **áreas de TI** y **seguridad informática**, ya que ahora pueden relajarse, sabiendo que el proceso de creación de contraseñas ya es tan sencillo como presionar un botón y ¡Contraseña segura generada!
 
-## Seguridad y regulación (5i):
+### ¿Qué impacto operativo esperas en las operaciones diarias?
+Se espera un impacto monumental: la creación de contraseñas será tan rápida como un rayo, y el tiempo que se solía gastar en la creación manual de contraseñas será reducido a cero. En lugar de perder tiempo en algo tan aburrido como la creación de contraseñas, los empleados podrán dedicarlo a tareas mucho más importantes.
 
-- Si no implementaste medidas de seguridad, ¿qué riesgos potenciales identificas y cómo los abordarías en el futuro?
-  - Actualmente no tiene ninguna medida de seguridad, pero tampoco le hace falta ya que las contraseñan solo se guardan mientras se ejecuta el programa, aunque si en un futuro se implementara un guardado de datos duradero,en JSON o en una base de datos o en la nuve, haria falta cifrar las contraseñas y la opcion de eliminarlas completamente
+---
 
-## Implicación de las THD en negocio y planta (2e):
-- ¿Qué impacto tendría tu software en un entorno de negocio o en una planta industrial?
-  - Este gestor de contraseñas podría mejorar la gestión de credenciales en empresas, asegurando la generación de contraseñas robustas y en un futuro el almacenamiento seguro de las mismas.
+## Áreas susceptibles de digitalización:
 
+### ¿Qué áreas de la empresa son más susceptibles de ser digitalizadas con tu software?
+Las áreas de **gestión de contraseñas y autenticación** son como esas antiguas y oxidadas máquinas de escribir que necesitan urgentemente ser sustituidas por una computadora. Si un software de generación automática de contraseñas no puede digitalizar esta área, ¿qué puede?
 
-- ¿Cómo crees que tu solución podría mejorar procesos operativos o la toma de decisiones?
-  - Automatiza la creación reduciendo errores humanos y aumentando la eficiencia.
-  
+### ¿Cómo mejorará la digitalización las operaciones en esas áreas?
+La digitalización de estas áreas será como instalar luces LED en una oficina que aún usa bombillas incandescentes: el proceso será más rápido, eficiente y seguro. Ya no será necesario luchar con la gestión manual de contraseñas ni con las brechas de seguridad que solían surgir de los errores humanos.
 
-- Si tu proyecto no aplica directamente a negocio o planta, ¿qué otros entornos podrían beneficiarse?
-  - Aunque aplican a los negocios, tambien se podria usar en entornos personales y domesticos
+---
 
+## Encaje de áreas digitalizadas (AD):
 
+### ¿Cómo interactúan las áreas digitalizadas con las no digitalizadas?
+Las áreas digitalizadas, como la gestión de contraseñas, se ven obligadas a interactuar con las áreas no digitalizadas ya que estas contraseñas son necesarias para las cosas informatica que tiene cualquier persona como el correo de la empresa, el telefono o el ordenador por ejemplo haciendo que estas contraseñas lleguen a todas la areas.
 
-## Mejoras en IT y OT (2f):
-- ¿Cómo puede tu software facilitar la integración entre entornos IT y OT?
-  - Este software podría facilitar el acceso seguro a sistemas industriales (OT) usando contraseñas robustas generadas de manera eficiente.
-  
+### ¿Qué soluciones o mejoras propondrías para integrar estas áreas?
+Lo que necesitamos es algo parecido a una **puente digital** que conecte lo viejo y lo nuevo, como un traductor en una conferencia internacional. Automatizar el proceso de contraseñas y facilitar la transición hacia plataformas de seguridad más modernas sería el paso clave para la integración total.
 
-- ¿Qué procesos específicos podrían beneficiarse de tu solución en términos de automatización o eficiencia?
-  - Seguridad en el acceso a sistemas de control y bases de datos en entornos industriales.
+---
 
+## Necesidades presentes y futuras:
 
-## Tecnologías Habilitadoras Digitales (2g):
+### ¿Qué necesidades actuales de la empresa resuelve tu software?
+Este software resuelve la necesidad de **crear contraseñas seguras** como una caja fuerte resuelve la necesidad de proteger objetos valiosos. No más contraseñas débiles, no más errores humanos. Ahora, las contraseñas son tan seguras como un secreto bien guardado… hasta que alguien las olvide, claro.
 
-- Si no has utilizado THD, ¿cómo podrías implementarlas para enriquecer tu solución?
-  - Actualmente, no se emplean tecnologías avanzadas. Se podría integrar el cifrado y almacenamiento en la nube, ademas de sistemas de autenticación multifactor
+---
+
+##  Relación con tecnologías:
+
+### ¿Qué tecnologías habilitadoras has empleado y cómo impactan en las áreas de la empresa?
+El software utiliza **tecnologías de generación aleatoria**, como un chef preparando un plato sorpresa con ingredientes al azar. Mientras los expertos en seguridad informática se relajan con su café, el software está creando contraseñas robustas como un muro de ladrillos, a prueba de cualquier ataque.
+
+### ¿Qué beneficios específicos aporta la implantación de estas tecnologías?
+Los beneficios son tan claros como el agua: **automatización**, **seguridad**, y lo mejor de todo, **velocidad**. Ya no se necesitan horas para crear contraseñas seguras; ahora, todo ocurre con la rapidez de un clic. ¡Las brechas de seguridad se reducen a cero y las contraseñas se generan casi sin esfuerzo!
+
+---
+
+## Brechas de seguridad:
+
+### ¿Qué posibles brechas de seguridad podrían surgir al implementar tu software?
+Las brechas de seguridad podrían ser tan evidentes como un agujero en una red de pesca si no se implementan medidas como **encriptación adecuada**. Además, si no se gestiona correctamente el acceso al software, el riesgo de que un intruso se cuele sería tan grande como dejar la puerta de tu casa abierta.
+
+### ¿Qué medidas concretas propondrías para mitigarlas?
+Mi propuesta es tan sencilla como **instalar un candado en la puerta**: usar **encriptación** para almacenar las contraseñas, implementar **autenticación multifactor** para añadir una capa extra de seguridad, y asegurar el acceso al software de manera que solo los puedan usarlo el personal indicado.
+
+---
+
+## Tratamiento de datos y análisis:
+
+### ¿Cómo se gestionan los datos en tu software y qué metodologías utilizas?
+El software gestiona los datos en memoria, pero sin la posibilidad de que alguien se olvide de guardar una contraseña. Utiliza estructuras simples como **listas en memoria** para manejar las contraseñas, pero podría mejorar con el tiempo con implementacion en logs para no tener el programa funcionando todo el rato. Y, por supuesto, lo más importante, la **consistencia** de las contraseñas está garantizada por la validación de datos, a pesar de que todavía podría haber mejoras en el tratamiento de datos.
+
+### ¿Qué haces para garantizar la calidad y consistencia de los datos?
+La calidad de los datos se garantiza como si fuera una receta secreta: validando los números que el usuario introduce para asegurarnos de que todo se genera correctamente. Pero claro, siempre hay espacio para mejorar con un sistema más robusto y controlado que refuerce aún más la **seguridad y fiabilidad** de las contraseñas o el guardado de las misma en archivos de texto encriptados.
 
