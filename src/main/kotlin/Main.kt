@@ -33,6 +33,7 @@ fun main() {
  * @param min Valor mínimo permitido.
  * @param max Valor máximo permitido.
  * @return Número entero introducido por el usuario.
+ * @exception IllegalArgumentException Da una excepcion cuando se introduce un valor que no sea un Nº
  */
 fun getNum(min: Int, max: Int): Int {
     var valorValido = false
