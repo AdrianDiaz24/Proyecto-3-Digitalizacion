@@ -60,4 +60,4 @@ Ya para finalizar solo hay que ir a la consola y escribir el siguiente comando "
 ## Ruta para entrar en la documentacion web
 
 - Ruta relativa al archivo: build/dokka/index.html
-- 
+- URL: https://adriandiaz24.github.io/Proyecto-3-Digitalizacion/
