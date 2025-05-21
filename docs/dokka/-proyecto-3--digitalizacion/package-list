@@ -1,0 +1,29 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.proyecto.digitalizacion////PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/index.html
+$dokka.location:com.proyecto.digitalizacion//getNum/#kotlin.Int#kotlin.Int/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/get-num.html
+$dokka.location:com.proyecto.digitalizacion//main/#/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/main.html
+$dokka.location:com.proyecto.digitalizacion//menu/#/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/menu.html
+$dokka.location:com.proyecto.digitalizacion//submenu/#/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/submenu.html
+$dokka.location:com.proyecto.digitalizacion/Almacenamiento///PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-almacenamiento/index.html
+$dokka.location:com.proyecto.digitalizacion/Almacenamiento/agregarElemento/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-almacenamiento/agregar-elemento.html
+$dokka.location:com.proyecto.digitalizacion/Almacenamiento/agregarElemento/#kotlin.collections.List[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-almacenamiento/agregar-elemento.html
+$dokka.location:com.proyecto.digitalizacion/Almacenamiento/elementos/#/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-almacenamiento/elementos.html
+$dokka.location:com.proyecto.digitalizacion/Almacenamiento/listarElementos/#/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-almacenamiento/listar-elementos.html
+$dokka.location:com.proyecto.digitalizacion/Contraseña///PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-contraseña/index.html
+$dokka.location:com.proyecto.digitalizacion/Contraseña/Contraseña/#kotlin.String/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-contraseña/-contraseña.html
+$dokka.location:com.proyecto.digitalizacion/Contraseña/contraseña/#/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-contraseña/contraseña.html
+$dokka.location:com.proyecto.digitalizacion/Contraseña/toString/#/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-contraseña/to-string.html
+$dokka.location:com.proyecto.digitalizacion/GestorContraseñas.Companion///PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-gestor-contraseñas/-companion/index.html
+$dokka.location:com.proyecto.digitalizacion/GestorContraseñas.Companion/caracteresEspeciales/#/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-gestor-contraseñas/-companion/caracteres-especiales.html
+$dokka.location:com.proyecto.digitalizacion/GestorContraseñas.Companion/letras/#/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-gestor-contraseñas/-companion/letras.html
+$dokka.location:com.proyecto.digitalizacion/GestorContraseñas.Companion/letrasMayus/#/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-gestor-contraseñas/-companion/letras-mayus.html
+$dokka.location:com.proyecto.digitalizacion/GestorContraseñas///PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-gestor-contraseñas/index.html
+$dokka.location:com.proyecto.digitalizacion/GestorContraseñas/GestorContraseñas/#/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-gestor-contraseñas/-gestor-contraseñas.html
+$dokka.location:com.proyecto.digitalizacion/GestorContraseñas/contraseñas/#/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-gestor-contraseñas/contraseñas.html
+$dokka.location:com.proyecto.digitalizacion/GestorContraseñas/crearContraseña/#kotlin.Int#kotlin.Int/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-gestor-contraseñas/crear-contraseña.html
+$dokka.location:com.proyecto.digitalizacion/RepositorioContraseña///PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-repositorio-contraseña/index.html
+$dokka.location:com.proyecto.digitalizacion/RepositorioContraseña/RepositorioContraseña/#/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-repositorio-contraseña/-repositorio-contraseña.html
+$dokka.location:com.proyecto.digitalizacion/RepositorioContraseña/elementos/#/PointingToDeclaration/-proyecto-3--digitalizacion/com.proyecto.digitalizacion/-repositorio-contraseña/elementos.html
+com.proyecto.digitalizacion
+
